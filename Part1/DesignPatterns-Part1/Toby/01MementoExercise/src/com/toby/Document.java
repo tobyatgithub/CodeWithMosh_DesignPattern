@@ -1,9 +1,25 @@
-package com.codewithmosh.memento;
+package com.toby;
 
 public class Document {
     private String content;
     private String fontName;
     private int fontSize;
+
+    public Document(String content, String fontName, int fontSize) {
+        this.content = content;
+        this.fontName = fontName;
+        this.fontSize = fontSize;
+    }
+
+    public DocumentState getState(){
+        return new DocumentState(content, fontName, fontSize);
+    }
+
+    public void restore(DocumentState state){
+        content = state.getContent();
+        fontName = state.getFontName();
+        fontSize = state.getFontSize();
+    }
 
     public String getContent() {
         return content;
