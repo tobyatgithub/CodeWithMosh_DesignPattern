@@ -20,21 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf728914-4ea6-4c63-8476-84c576efe9a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Demos/src/com/codewithmosh/memento/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demos/src/com/codewithmosh/memento/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demos/src/com/codewithmosh/memento/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demos/src/com/codewithmosh/memento/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demos/src/com/codewithmosh/memento/memento.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Toby/01MementoExercise/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Toby/01MementoExercise/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Toby/01MementoExercise/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Toby/01MementoExercise/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Toby/01MementoExercise/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Toby/01MementoExercise/01MementoExercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Toby/01MementoExercise/src/com/toby/DocumentState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Toby/01MementoExercise/src/com/toby/History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Toby/01MementoExercise/src/com/toby/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercises/src/com/codewithmosh/memento/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Toby/01MementoExercise/src/com/toby/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,5 +98,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="119" key="new project wizard" timestamp="1611968800475">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state x="110" y="119" key="new project wizard/44.23.1396.877@44.23.1396.877" timestamp="1611968800475" />
   </component>
 </project>
